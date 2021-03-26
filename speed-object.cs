@@ -3,7 +3,9 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class Speed / Timer: MonoBehaviour {
-
+    
+    
+    // The speed and duration of the object
     public float speed = 8f;
     public float lifeDuration = 2f;
 
